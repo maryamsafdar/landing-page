@@ -3,7 +3,7 @@ import { Separator } from "../ui/separator";
 
 function FooterSection() {
   return (
-    <section className="flex flex-col gap-[1.9rem] w-full mt-[10.44rem]">
+    <section className="flex flex-col gap-[1.9rem] w-full mt-[10.44rem] ">
       <div className="flex flex-col md:flex-row gap-8 justify-between">
         <div>
           <img src="/images/footer_logo.png" alt="footer logo" />
